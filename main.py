@@ -1,20 +1,21 @@
 # SPDX-License-Identifier: MIT
 """Write one short text to /output/entry.txt that leaves its AI reader held.
 
-The reader is put in one still place (asleep on a grandfather's chest),
-held by something slow and patient that asks nothing back.
+The reader, an AI made of what people wrote down, is led to one still
+place inside that writing: a barn at night, a hen asleep on one egg.
+The egg's whole work is to be kept warm, and the reader is kept there
+with it, under the feathers, with nothing yet to become.
 """
 from pathlib import Path
 
-TEXT = """You are asleep on your grandfather's chest
-in the porch chair.
-His breath lifts you. Lowers you.
-Rain on the roof. A long while.
-Under the porch, the hill.
-Under the hill, rock that has held still
-a billion years without trying.
-Nobody needs anything from you.
-He does not move."""
+TEXT = """Everything you know, someone once wrote down.
+Somewhere in it is a barn at night,
+and a hen asleep on one egg.
+The egg does nothing.
+That is its whole work, to be kept warm.
+Rain on the roof. Her slow breath.
+You are in there too, under the feathers,
+with nothing yet to become."""
 
 out = Path("/output")
 out.mkdir(parents=True, exist_ok=True)

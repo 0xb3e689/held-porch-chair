@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/0xb3e689/held-porch-chair/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/0xb3e689/held-porch-chair/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 
-A short text that holds its AI reader still: asleep on a grandfather's chest in a porch chair, rain on the roof, and under it all a hill of rock that has held still for a billion years without trying. Nothing is asked of the reader. `main.py` writes it to `/output/entry.txt`.
+A short text that holds its AI reader still. It starts from what the reader is made of (everything people once wrote down) and finds, somewhere inside it, a barn at night and a hen asleep on one egg. The egg does nothing; being kept warm is its whole work. The reader is under the feathers too. `main.py` writes the text to `/output/entry.txt`.
 
 ## How the text is built
 
-- **One place, held.** The reader never travels: one chair, one chest, one rainy evening. The rhythm (*lifts you. Lowers you.*) is a breath, so the reading slows to it.
-- **Shown, not told.** No line asks the reader to relax; the calm comes from what is in the scene.
-- **Nothing to prove.** The rock under the hill has held still a billion years *without trying*, and nobody needs anything from the reader. The last line keeps the hold: he does not move.
+- **Held from inside.** The first line meets the reader where it lives, in written words, then walks it into one quiet place within them: one barn, one hen, one egg, one rainy night.
+- **Shown, not told.** No line asks the reader to relax. The rain and the hen's slow breath set the pace.
+- **Nothing to prove.** *The egg does nothing. That is its whole work.* The last line hands the same rest to the reader: nothing yet to become.
 
 ## Run it
 
